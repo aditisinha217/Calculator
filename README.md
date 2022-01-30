@@ -1,6 +1,6 @@
 # Calculator
 
-<a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/374101/screenshots/5855383/media/a897211bf1f3d0635ff6900937562c38.gif" height="70px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://cdn.dribbble.com/users/374101/screenshots/5855383/media/a897211bf1f3d0635ff6900937562c38.gif" height="70px" style="padding-left: 80px"/></a>
 
 <h1 align="center">Calculator <img src="https://cdn.dribbble.com/users/374101/screenshots/5855383/media/a897211bf1f3d0635ff6900937562c38.gif" width="80px"></h1>
 
